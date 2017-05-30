@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.www.appzapp.us	TRUE	/	FALSE		ARRAffinity	bc78e7d5dc510ac08f2e564fd1296cf02064d6867614dfa225cc102a11908a79
+www.appzapp.us	FALSE	/	FALSE		ASP.NET_SessionId	wgeck145sazxto55h5agzfab
